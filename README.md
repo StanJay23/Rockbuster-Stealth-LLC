@@ -38,17 +38,3 @@ Language
 Staff
 
 Store
-
-Actor
-Address
-Category
-City
-Country
-Customer
-Fim
-Film Actor
-Film Category
-Inventory
-Language
-Staff
-Store
