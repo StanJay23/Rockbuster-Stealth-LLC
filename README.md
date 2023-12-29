@@ -7,34 +7,34 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 
 # Fact_Tables
 
-Payment
++ Payment
 
-Rental
++ Rental
 
 # Dimension_Tables
 
-Actor
++ Actor
 
-Address
++ Address
 
-Category
++ Category
 
-City
++ City
 
-Country
++ Country
 
-Customer
++ Customer
 
-Fim
++ Film
 
-Film Actor
++ Film Actor
 
-Film Category
++ Film Category
 
-Inventory
++ Inventory
 
-Language
++ Language
 
-Staff
++ Staff
 
-Store
++ Store
