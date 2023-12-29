@@ -38,3 +38,6 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 + Staff
 
 + Store
+
+#Visualiyations
+Visualizations were created in Tableau. The link to the storyboard can be found here
