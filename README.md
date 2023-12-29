@@ -39,6 +39,6 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 
 + Store
 
-#Visualizations
+# Visualizations
 
 Visualizations was created in Tableau. This is the link to the storyboard
