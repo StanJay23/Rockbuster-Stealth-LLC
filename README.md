@@ -41,4 +41,4 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 
 # Visualizations
 
-Visualizations was created in Tableau. This is the link to the storyboard
+Visualizations was created in Tableau. This is the link to the storyboard (https://docs.google.com/presentation/d/e/2PACX-1vTspkoEukIZ0rs4i7MiO4aVi03U0DxbZ165kWLYybnaTDdq1aLPVCOXWwJ8sXo3z3FgBCFMMmKtJCXp/pub?start=true&loop=false&delayms=3000)
